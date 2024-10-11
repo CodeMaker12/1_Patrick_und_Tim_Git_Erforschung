@@ -1,2 +1,2 @@
 1. Beide Zugriff auf repository >> Check
-2. Diese Datei Comitten aufs repository >>
+2. Diese Datei Comitten aufs repository >> Check
